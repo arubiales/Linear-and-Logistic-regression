@@ -1,4 +1,4 @@
-#Linear and Logistic Regressions
+# Linear and Logistic Regressions
 
 In this repository we are going to explain in deep, the linear regression and the logistic regression.  
 
