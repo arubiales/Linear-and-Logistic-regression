@@ -1,6 +1,6 @@
 # Linear and Logistic Regressions
 
-In this repository we are going to explain in deep, the linear regression and the logistic regression.  
+In this repository we are going to explain, the linear regression and the logistic regression.  
 
 We are going to:
 1. Explain mathematically linear and logistic regression
